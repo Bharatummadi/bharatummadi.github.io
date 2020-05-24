@@ -1,5 +1,5 @@
 layout: stacked #sidebar 
-style: dark #light
+style: light
 
 plugins:
   - jekyll-octicons
